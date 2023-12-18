@@ -1,43 +1,35 @@
-# <img src="logos/MultiQC_logo.png" width="300" title="MultiQC">
+&nbsp;
+![MultiQC](logos/multiqc_logo_color.png#gh-light-mode-only)
+![MultiQC](logos/multiqc_logo_darkbg.png#gh-dark-mode-only)
+&nbsp;
 
-**MultiQC is a tool to aggregate bioinformatics results across many
-samples into a single report.**
+### Aggregate bioinformatics results across many samples into a single report
 
 This repository contains the MultiQC logo in various formats.
 See also [https://multiqc.info/logos/](https://multiqc.info/logos/)
 
 ## Design Details
 
-* Font: Roboto Medium 500 (available from [Google Fonts](https://fonts.google.com/specimen/Roboto))
-* Text Colour: `#000000`
-* Colour 1: `#BE1622`
-* Colour 2: `#009640`
-* Colour 3: `#1D71B8`
+* Headings font: [Degular](https://fonts.adobe.com/fonts/degular)
+* Body font: [Inter](https://fonts.google.com/specimen/Inter)
+* Brand colour: `#F18046`
+* Text colour: `#160F26` / `#FFFFFF`
 
 ## Logos
 
-#### MultiQC Logo
-* [PNG](logos/MultiQC_logo.png)
-* [SVG](logos/MultiQC_logo.svg)
-* [Illustrator CS5](logos/MultiQC_logo.ai)
+#### MultiQC logo
+* Colour (light background): [PNG](logos/multiqc_logo_color.png) / [SVG](logos/multiqc_logo_color.svg)
+* Colour (dark background): [PNG](logos/multiqc_logo_darkbg.png) / [SVG](logos/multiqc_logo_darkbg.svg)
+* Monochrome (light): [PNG](logos/multiqc_logo_white.png) / [SVG](logos/multiqc_logo_white.svg)
+* Monochrome (dark): [PNG](logos/multiqc_logo_dark.png) / [SVG](logos/multiqc_logo_dark.svg)
 
-#### MultiQC Logo (dark background)
-* [PNG](logos/MultiQC_logo_darkbg.png)
-* [SVG](logos/MultiQC_logo_darkbg.svg)
-* [Illustrator CS5](logos/MultiQC_logo_darkbg.ai)
-
-#### MultiQC Square Thumb
-* [PNG](logos/MultiQC_logo_square.png)
-* [SVG](logos/MultiQC_logo_square.svg)
-* [Illustrator CS5](logos/MultiQC_logo_square.ai)
-
-#### MultiQC Circle Thumb
-* [PNG](logos/MultiQC_logo_circle.png)
-* [SVG](logos/MultiQC_logo_circle.svg)
-* [Illustrator CS5](logos/MultiQC_logo_circle.ai)
+#### MultiQC icon
+* Colour (light background): [PNG](logos/multiqc_logo_color.png) / [SVG](logos/multiqc_logo_color.svg)
+* Monochrome (light): [PNG](logos/multiqc_logo_white.png) / [SVG](logos/multiqc_logo_white.svg)
+* Monochrome (dark): [PNG](logos/multiqc_logo_dark.png) / [SVG](logos/multiqc_logo_dark.svg)
 
 ## Usage
 
-You are free to use the MultiQC logo for whatever you would like, it is available under the [MIT licence](https://choosealicense.com/licenses/mit/).
+You are free to use the MultiQC logo for usage in publications, posters, talks and any other work related to the usage of MultiQC.
 
 Where possible, please try to link back to the main MultiQC website: [https://multiqc.info/](https://multiqc.info/)
