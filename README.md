@@ -24,9 +24,9 @@ See also [https://multiqc.info/logos/](https://multiqc.info/logos/)
 * Monochrome (dark): [PNG](logos/multiqc_logo_dark.png) / [SVG](logos/multiqc_logo_dark.svg)
 
 #### MultiQC icon
-* Colour (light background): [PNG](logos/multiqc_logo_color.png) / [SVG](logos/multiqc_logo_color.svg)
-* Monochrome (light): [PNG](logos/multiqc_logo_white.png) / [SVG](logos/multiqc_logo_white.svg)
-* Monochrome (dark): [PNG](logos/multiqc_logo_dark.png) / [SVG](logos/multiqc_logo_dark.svg)
+* Colour (light background): [PNG](logos/multiqc_icon_color.png) / [SVG](logos/multiqc_icon_color.svg)
+* Monochrome (light): [PNG](logos/multiqc_icon_white.png) / [SVG](logos/multiqc_icon_white.svg)
+* Monochrome (dark): [PNG](logos/multiqc_icon_dark.png) / [SVG](logos/multiqc_icon_dark.svg)
 
 ## Usage
 
